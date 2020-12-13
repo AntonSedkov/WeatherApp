@@ -1,0 +1,6 @@
+[2020-12-13T23:56:54.306+0300][0.017s][debug][gc] ConcGCThreads: 2 offset 16
+[2020-12-13T23:56:54.306+0300][0.018s][debug][gc] ParallelGCThreads: 8
+[2020-12-13T23:56:54.306+0300][0.018s][debug][gc] Initialize mark stack with 4096 chunks, maximum 16384
+[2020-12-13T23:56:54.311+0300][0.023s][info ][gc] Using G1
+[2020-12-13T23:56:54.344+0300][0.056s][info ][gc] Periodic GC disabled
+[2020-12-13T23:56:54.882+0300][0.593s][info ][gc] GC(0) Pause Young (Normal) (G1 Evacuation Pause) 12M->4M(256M) 6.416ms

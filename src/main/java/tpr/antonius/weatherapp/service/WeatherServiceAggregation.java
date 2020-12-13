@@ -4,8 +4,8 @@ import tpr.antonius.weatherapp.model.Weather;
 
 import java.util.List;
 
-public interface WeatherService {
+public interface WeatherServiceAggregation {
 
-    List<Weather> receiveWeather();
+    List<Weather> receiveAggregateWeather();
 
 }
